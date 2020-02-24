@@ -1,3 +1,3 @@
-# Customer_churn_with_Logistic_Regression
+# Customer_churn
 
 #### Who is leaving and why
